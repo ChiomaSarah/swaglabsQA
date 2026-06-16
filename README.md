@@ -23,17 +23,17 @@
 ## 📁 Repository Structure
 
 ```
-swag-labs-qa/
+Swag-Labs-QA/
 │
 ├── docs/
-│   ├── Swag_Labs_Test_Plan.docx
-│   ├── Swag_Labs_QA_Project_Workbook.xlsx
-│   └── Swag_Labs_Project_Presentation.pptx
+│   ├── Swag Labs Test Plan.docx
+│   ├── Swag Labs Requirements Analysis.xlsx
+│   └── Swag Labs Project Presentation.pptx
 │
 ├── screenshots/
-│   ├── defect-report.png
-│   ├── test-cases.png
-│   └── inventory-problem-user.png
+│   ├── Defect Report.png
+│   ├── Test Cases.png
+│   └── Presentation.png
 │
 └── README.md
 ```
